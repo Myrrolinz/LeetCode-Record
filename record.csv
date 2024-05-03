@@ -1,0 +1,5 @@
+﻿题号,名称,感想,一刷
+704,binary search,需要在函数内进行循环，且分成左 中 右三个部分，左和右都是左闭右开,5/3/2024
+27,remove element,双指针（但我O(2n)也是O(n)啊！）,5/3/2024
+977,squares of a sorted array,双指针（看了解答再写的）,5/3/2024
+209,minimum size subarray sum,滑动窗口（这题完全不会做,5/3/2024
