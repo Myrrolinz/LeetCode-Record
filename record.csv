@@ -3,3 +3,8 @@
 27,remove element,双指针（但我O(2n)也是O(n)啊！）,5/3/2024
 977,squares of a sorted array,双指针（看了解答再写的）,5/3/2024
 209,minimum size subarray sum,滑动窗口（这题完全不会做,5/3/2024
+59,spiral matrix II,没什么技巧，就是硬写，但是一定要注意开闭区间,5/4/2024
+203,remove linked list elements,简单，注意用dummy head,5/4/2024
+707,design linked list,一定要注意长度判断条件，细节很多,5/4/2024
+206,reverse linked list,两个细节点，一定要画图考虑清楚，很容易死循环,5/4/2024
+24,swap nodes in pairs,也是要注意细节，画图说明,
