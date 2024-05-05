@@ -7,4 +7,12 @@
 203,remove linked list elements,简单，注意用dummy head,5/4/2024
 707,design linked list,一定要注意长度判断条件，细节很多,5/4/2024
 206,reverse linked list,两个细节点，一定要画图考虑清楚，很容易死循环,5/4/2024
-24,swap nodes in pairs,也是要注意细节，画图说明,
+24,swap nodes in pairs,也是要注意细节，画图说明,5/4/2024
+19,remove nth node from end of list,也是双指针法,5/5/2024
+2.07,intersection of two linked lists LCCI,双指针。写得有一点冗余，其实cnt可以从0开始计数就会少一些事,5/5/2024
+142,linked list cycle II,最讨巧的就是set()方法。另一个是快满指针法，要数学证明,5/5/2024
+242,valid anagram,用defaultdict或者counter写的飞快,5/5/2024
+349,intersection of two arrays,同上，defaultdict或者counter。最后一步要转化为list,5/5/2024
+202,happy number,这题不会，抄的。其实不是数学题，sum会重复的,5/5/2024
+1,two sum,这题注意审题，只要2个数。而且解答巧在用一个循环就判断完了,5/5/2024
+454,4sum II,不会，抄的。实际上4组数两两分组，就和1一样了,5/5/2024
