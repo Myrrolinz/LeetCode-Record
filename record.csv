@@ -16,3 +16,11 @@
 202,happy number,这题不会，抄的。其实不是数学题，sum会重复的,5/5/2024
 1,two sum,这题注意审题，只要2个数。而且解答巧在用一个循环就判断完了,5/5/2024
 454,4sum II,不会，抄的。实际上4组数两两分组，就和1一样了,5/5/2024
+383,ransom note,用counter无敌简单,5/6/2024
+15,3sum,不会，抄的，谁能想到用双指针啊。另一个dict方法看不懂,5/6/2024
+18,4sum,应该用双指针，但我用dict逻辑就比较清晰（就是慢了,5/6/2024
+344,reverse string,easy,5/6/2024
+541,reverse string II,简单，但我菜，看错题了。注意Python中的翻转用法,5/6/2024
+,替换数字,没写。注意两个点：python的string不可更改，需要额外空间；isdigit()和''.join(),5/6/2024
+151,reverse words in a string,python的split和join无敌简单,5/6/2024
+28,find the index of the first occurrence in a string,这题用find或者index非常容易，但是要学会KMP,
