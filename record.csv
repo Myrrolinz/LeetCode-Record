@@ -24,3 +24,8 @@
 ,替换数字,没写。注意两个点：python的string不可更改，需要额外空间；isdigit()和''.join(),5/6/2024
 151,reverse words in a string,python的split和join无敌简单,5/6/2024
 28,find the index of the first occurrence in a string,这题用find或者index非常容易，但是要学会KMP,
+459,repeated substring pattern,这题还真没思路，看了解答发现如此简单(移动匹配+find),
+232,implement queue using stacks,有一些写法上的小细节要注意。In和out甚至不需要来回倒，一直放在out里都可以,
+252,implement stack using queues,用一个deque就可以解决,
+20,valid parentheses,有小细节,
+1047,Remove All Adjacent Duplicates In String,easy,
