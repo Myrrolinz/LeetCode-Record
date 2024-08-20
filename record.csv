@@ -29,3 +29,6 @@
 252,implement stack using queues,用一个deque就可以解决,
 20,valid parentheses,有小细节,
 1047,Remove All Adjacent Duplicates In String,easy,
+150,Evaulate Reverse Polish Notation,easy,8/19/2024
+239,Sliding Window Maximum,自己写的O(n*k)过不了，要用双端队列,8/19/2024
+347,Top K Frequent Elements,没玩过的最大最小堆,8/19/2024
