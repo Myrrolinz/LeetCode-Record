@@ -31,4 +31,12 @@
 1047,Remove All Adjacent Duplicates In String,easy,
 150,Evaulate Reverse Polish Notation,easy,8/19/2024
 239,Sliding Window Maximum,自己写的O(n*k)过不了，要用双端队列,8/19/2024
-347,Top K Frequent Elements,没玩过的最大最小堆,8/19/2024
+347,Top K Frequent Elements,没玩过的最大最小堆；最大堆是每次弹出最大元素；最小堆是弹出最小元素,8/19/2024
+144,Binary Tree Preorder Traversal ,就是背！,8/21/2024
+94,Binary Tree Inorder Traversal,same as above,8/21/2024
+145,Binary Tree Postorder Traversal,order: the middle node!,8/21/2024
+102,Binary Tree Level Order Traversal,queue,8/21/2024
+107,Binary Tree Level Order Traversal II,最后反转即可,8/21/2024
+199,Binary Tree Right Side View,只要判断是不是右侧（size-1）即可,8/21/2024
+637,Average of Levels in Binary Tree,,8/21/2024
+429,N-ary Tree Level Order Traversal,,8/21/2024

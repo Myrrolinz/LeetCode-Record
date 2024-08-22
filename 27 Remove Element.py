@@ -17,7 +17,7 @@ def removeElement(nums, val: int) -> int:
 nums = [0,1,2,2,3,0,4,2]
 val = 2
 removeElement(nums, val)
-# 这题比较牛逼的解法是快满指针法
+# 这题比较牛逼的解法是快慢指针法
 # def removeElement(self, nums: List[int], val: int) -> int:
 #     # 快慢指针
 #     fast = 0  # 快指针
