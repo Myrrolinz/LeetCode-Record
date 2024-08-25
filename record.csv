@@ -40,4 +40,9 @@
 199,Binary Tree Right Side View,只要判断是不是右侧（size-1）即可,8/21/2024
 637,Average of Levels in Binary Tree,,8/21/2024
 429,N-ary Tree Level Order Traversal,,8/21/2024
-102,Binary Tree Level Order Traversal,,8/22/2024
+515,Find Largest Value in Each Tree Row,,8/22/2024
+116,Populating Next Right Pointers in Each Node,要用prev指针,8/24/2024
+117,Populating Next Right Pointers in Each Node II,same as above,8/24/2024
+104,Maximum Depth of Binary Tree,,8/24/2024
+111,Minimum Depth of Binary Tree,只有左右孩子都不存在的时候才说明是遍历到最低点了,8/24/2024
+226,Invert Binary Tree,反转左右孩子即可,8/24/2024
