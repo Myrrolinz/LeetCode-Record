@@ -46,3 +46,7 @@
 104,Maximum Depth of Binary Tree,,8/24/2024
 111,Minimum Depth of Binary Tree,只有左右孩子都不存在的时候才说明是遍历到最低点了,8/24/2024
 226,Invert Binary Tree,反转左右孩子即可,8/24/2024
+101,Symmetric Tree,递归outside和inside,
+222,Count Complete Tree Nodes,,
+110,Balanced Binary Tree,主要是层的数值关系要搞清楚,
+257,Binary Tree Path,回溯,
