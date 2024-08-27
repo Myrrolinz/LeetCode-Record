@@ -41,3 +41,6 @@
 637,Average of Levels in Binary Tree,,8/21/2024
 429,N-ary Tree Level Order Traversal,,8/21/2024
 102,Binary Tree Level Order Traversal,,8/22/2024
+112,Path Sum,就是257,
+113,Path Sum II,,
+106,Construct Binary Tree from Inorder and Postorder Traversal,中序+后序,
