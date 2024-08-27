@@ -53,10 +53,15 @@
 257,Binary Tree Path,回溯,8/25/2024
 404,Sume of Left Leaves,本质不难，但是一定要搞清楚左叶子的定义。在父节点就需要判定左叶子了,8/25/2024
 513,Find Bottom Left Tree Value,层序,8/25/2024
-112,Path Sum,就是257,
-113,Path Sum II,,
-106,Construct Binary Tree from Inorder and Postorder Traversal,中序+后序,
-105,Construct Binary Tree from Preorder and Inorder Traversal,前序+中序,
-654,Maximum Binary Tree,注意终止条件,
-617,Merge Two Binary Trees,直接在root1上修改可以节省时间空间,
-700,Search in a Binary Search Tree,搜索树！,
+112,Path Sum,就是257,8/26/2024
+113,Path Sum II,,8/26/2024
+106,Construct Binary Tree from Inorder and Postorder Traversal,中序+后序,8/26/2024
+105,Construct Binary Tree from Preorder and Inorder Traversal,前序+中序,8/26/2024
+654,Maximum Binary Tree,注意终止条件,8/26/2024
+617,Merge Two Binary Trees,直接在root1上修改可以节省时间空间,8/26/2024
+700,Search in a Binary Search Tree,搜索树！,8/26/2024
+98,Vlidate Binary Searchc Tree,不能简单左<中，是左子树整个<中,8/27/2024
+530,Minimum Absolute Difference in BST,和前面的一样,8/27/2024
+501,Find Mode in Binary Search Tree,,8/27/2024
+236,Lowest Common Ancestor of a Binary Tree,难的回溯,8/27/2024
+235,Lowest Common Ancestor of a Binary Search Tree, ,8/27/2024
