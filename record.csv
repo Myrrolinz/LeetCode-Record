@@ -41,9 +41,6 @@
 637,Average of Levels in Binary Tree,,8/21/2024
 429,N-ary Tree Level Order Traversal,,8/21/2024
 102,Binary Tree Level Order Traversal,,8/22/2024
-112,Path Sum,就是257,
-113,Path Sum II,,
-106,Construct Binary Tree from Inorder and Postorder Traversal,中序+后序,
 515,Find Largest Value in Each Tree Row,,8/22/2024
 116,Populating Next Right Pointers in Each Node,要用prev指针,8/24/2024
 117,Populating Next Right Pointers in Each Node II,same as above,8/24/2024
@@ -56,3 +53,10 @@
 257,Binary Tree Path,回溯,8/25/2024
 404,Sume of Left Leaves,本质不难，但是一定要搞清楚左叶子的定义。在父节点就需要判定左叶子了,8/25/2024
 513,Find Bottom Left Tree Value,层序,8/25/2024
+112,Path Sum,就是257,
+113,Path Sum II,,
+106,Construct Binary Tree from Inorder and Postorder Traversal,中序+后序,
+105,Construct Binary Tree from Preorder and Inorder Traversal,前序+中序,
+654,Maximum Binary Tree,注意终止条件,
+617,Merge Two Binary Trees,直接在root1上修改可以节省时间空间,
+700,Search in a Binary Search Tree,搜索树！,
