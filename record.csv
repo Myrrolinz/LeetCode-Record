@@ -44,3 +44,15 @@
 112,Path Sum,就是257,
 113,Path Sum II,,
 106,Construct Binary Tree from Inorder and Postorder Traversal,中序+后序,
+515,Find Largest Value in Each Tree Row,,8/22/2024
+116,Populating Next Right Pointers in Each Node,要用prev指针,8/24/2024
+117,Populating Next Right Pointers in Each Node II,same as above,8/24/2024
+104,Maximum Depth of Binary Tree,,8/24/2024
+111,Minimum Depth of Binary Tree,只有左右孩子都不存在的时候才说明是遍历到最低点了,8/24/2024
+226,Invert Binary Tree,反转左右孩子即可,8/24/2024
+101,Symmetric Tree,递归outside和inside,8/25/2024
+222,Count Complete Tree Nodes,,8/25/2024
+110,Balanced Binary Tree,主要是层的数值关系要搞清楚,8/25/2024
+257,Binary Tree Path,回溯,8/25/2024
+404,Sume of Left Leaves,本质不难，但是一定要搞清楚左叶子的定义。在父节点就需要判定左叶子了,8/25/2024
+513,Find Bottom Left Tree Value,层序,8/25/2024
