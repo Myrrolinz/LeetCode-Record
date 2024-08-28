@@ -65,3 +65,8 @@
 501,Find Mode in Binary Search Tree,,8/27/2024
 236,Lowest Common Ancestor of a Binary Tree,难的回溯,8/27/2024
 235,Lowest Common Ancestor of a Binary Search Tree, ,8/27/2024
+701,Insert into a Binary Search Tree,直接插到尾部,
+450,Delete Node in a BST,背,
+669,Trim a Binary Search Tree,,
+108,Convert Sorted Array to Binary Search Tree,结合二分法,
+538,Convert BST to Greater Tree,逆中序遍历,
