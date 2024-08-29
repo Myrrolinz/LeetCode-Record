@@ -70,3 +70,4 @@
 669,Trim a Binary Search Tree,,
 108,Convert Sorted Array to Binary Search Tree,结合二分法,
 538,Convert BST to Greater Tree,逆中序遍历,
+77,Combinations,注意直接添加list到list中是引用！！如果是加实际数据，那要加上[:]。可以剪枝,
