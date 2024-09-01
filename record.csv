@@ -71,11 +71,16 @@
 108,Convert Sorted Array to Binary Search Tree,结合二分法,8/28/2024
 538,Convert BST to Greater Tree,逆中序遍历,8/28/2024
 77,Combinations,注意直接添加list到list中是引用！！如果是加实际数据，那要加上[:]。可以剪枝,8/29/2024
-216,Combination Sum III,,
-17,Letter Combinations of a Phone Number,,
-39,Combination Sum,,
-40,Combination Sum II,一直超时，两个if去重是关键,
-131,Palindrome Partitioning,,
-93,Restore IP Addresses,,
-78,Subsets,收集所有的节点；终止条件！,
-90,Subsets II,,
+216,Combination Sum III,,8/30/2024
+17,Letter Combinations of a Phone Number,,8/30/2024
+39,Combination Sum,,8/30/2024
+40,Combination Sum II,一直超时，两个if去重是关键,8/30/2024
+131,Palindrome Partitioning,,8/30/2024
+93,Restore IP Addresses,,8/30/2024
+78,Subsets,收集所有的节点；终止条件！,8/30/2024
+90,Subsets II,,8/30/2024
+491,Non-decreasing Subsequences,需要用set()进行去重,
+46,Permutations,"不需要startIdx,但是需要used",
+332,Reconstruct Itinerary,很难,
+51,N-Queens,也难啊,
+37,Sodoku Solver,反而没之前的难,
