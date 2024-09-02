@@ -79,8 +79,14 @@
 93,Restore IP Addresses,,8/30/2024
 78,Subsets,收集所有的节点；终止条件！,8/30/2024
 90,Subsets II,,8/30/2024
-491,Non-decreasing Subsequences,需要用set()进行去重,
-46,Permutations,"不需要startIdx,但是需要used",
-332,Reconstruct Itinerary,很难,
-51,N-Queens,也难啊,
-37,Sodoku Solver,反而没之前的难,
+491,Non-decreasing Subsequences,需要用set()进行去重,9/1/2024
+46,Permutations,"不需要startIdx,但是需要used",9/1/2024
+332,Reconstruct Itinerary,很难,9/1/2024
+51,N-Queens,也难啊,9/1/2024
+37,Sodoku Solver,反而没之前的难,9/1/2024
+455,Assign Cookies,,
+376,Wiggle Subsequence,细节很多，讨论三种情况,
+53,Maximum Subarray,简单，本应该自己想的,
+122,Best Time to Buy and Sell Stock II,,
+55,Jump Game,,
+45,Jump Game II,移动下标达到了当前覆盖的最远距离下标时，步数就要加一,
