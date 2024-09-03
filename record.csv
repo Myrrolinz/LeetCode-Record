@@ -91,3 +91,5 @@
 55,Jump Game,,9/2/2024
 45,Jump Game II,移动下标达到了当前覆盖的最远距离下标时，步数就要加一,9/2/2024
 1005,Maximize Sum Of Array After K Negations,不难但tricky,9/2/2024
+134,Gas Station,没想到,
+135,Candy,需要两遍遍历：左到右和右到左,
