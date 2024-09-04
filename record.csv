@@ -96,3 +96,5 @@
 860,Lemonade Change,,9/3/2024
 460,Queue Reconstruction by Height,妙啊，还涉及lambda和insert。如果是C++就需要上链表了std::list时,9/3/2024
 452,Minimum Number of Arrows to Burst Ballons,更新右侧边界,9/3/2024
+435,Non-overlapping Intervals,,
+763,Partition Labels,先遍历一遍存储下标,
