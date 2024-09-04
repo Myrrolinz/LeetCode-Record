@@ -93,3 +93,6 @@
 1005,Maximize Sum Of Array After K Negations,不难但tricky,9/2/2024
 134,Gas Station,没想到,
 135,Candy,需要两遍遍历：左到右和右到左,
+860,Lemonade Change,,
+460,Queue Reconstruction by Height,妙啊，还涉及lambda和insert。如果是C++就需要上链表了std::list时,
+452,Minimum Number of Arrows to Burst Ballons,更新右侧边界,
