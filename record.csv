@@ -101,3 +101,9 @@
 56,Merge Intervals,,9/4/2024
 738,Monotone Increasing Digits,得从右往左遍历,9/4/2024
 968,Binary Tree Cameras,怪难的,9/4/2024
+509,Fibonacci Number,,9/5/2024
+70,Climbing Stairs,看着难，实际上就是斐波那契，只是初始状态不同,9/5/2024
+746,Min Cost Climbing Stairs,,9/5/2024
+62,Unique Paths,,9/5/2024
+63,Unique Paths II,,9/5/2024
+343,Integer Break,拆分成dp[i-j] * j,9/5/2024
