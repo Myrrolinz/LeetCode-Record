@@ -112,3 +112,8 @@
 1049,Last Stone Weight II,,9/6/2024
 494,Target Sum,诀窍在于left-right=target和left+right=sum; 注意初始化条件,9/6/2024
 474,Ones and Zeros,,9/6/2024
+518,Coin Change II,,9/7/2024
+377,Combination Sum IV,先物品后背包=组合，先背包后物品=排列,9/7/2024
+322,Coin Change,需要初始化为最大值！,9/7/2024
+279,Perfect Squares,,9/7/2024
+139,Word Break,好新颖的题,9/7/2024
