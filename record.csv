@@ -122,3 +122,8 @@
 337,House Robber III,,9/8/2024
 121,Best Time to Buy and Sell Stock,,9/8/2024
 122,Best Time to Buy and Sell Stock II,,9/8/2024
+123,Best Time to Buy and Sell Stock III,几种状态就是几个数组,9/9/2024
+188,Best Time to Buy and Sell Stock IV,,9/9/2024
+309,Best Time to Buy and Sell Stock with Cooldown,这题不能只用一维数组，因为会被覆盖，他们是互相使用并修改的关系，不像之前的题有一定的先后顺序,9/9/2024
+714,Best Time to Buy and Sell Stock with Transaction Fee,只能在sell的时候-fee,9/9/2024
+300,Longest Increasing Subsequence,,9/9/2024
