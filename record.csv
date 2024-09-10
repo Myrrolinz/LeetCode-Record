@@ -127,3 +127,8 @@
 309,Best Time to Buy and Sell Stock with Cooldown,这题不能只用一维数组，因为会被覆盖，他们是互相使用并修改的关系，不像之前的题有一定的先后顺序,9/9/2024
 714,Best Time to Buy and Sell Stock with Transaction Fee,只能在sell的时候-fee,9/9/2024
 300,Longest Increasing Subsequence,,9/9/2024
+674,Longest Continuous Increasing Subsequence,,9/10/2024
+718,Maximum Length of Repeated Subarray,,9/10/2024
+1143,Longest Common Subsequence,,9/10/2024
+1035,Uncrossed Lines,,9/10/2024
+392,Is Subsequence,双指针吧，别给自己上难度,9/10/2024
