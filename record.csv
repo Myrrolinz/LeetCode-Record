@@ -145,3 +145,6 @@
 797,All Paths From Source to Target,基础dfs,
 200,Number of Islands,,
 695,Max Area of Island,,
+1254,Number of Closed Islands,,
+,孤岛总面积,先遍历一遍，重置边界岛,
+,沉没孤岛,和前面一样,
