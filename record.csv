@@ -142,9 +142,10 @@
 503,Next Greater Element II,,9/13/2024
 42,Trapping Rain Water,,9/13/2024
 84,Largest Rectangle in Historgram,,9/13/2024
-797,All Paths From Source to Target,基础dfs,
-200,Number of Islands,,
-695,Max Area of Island,,
-1254,Number of Closed Islands,,
-,孤岛总面积,先遍历一遍，重置边界岛,
-,沉没孤岛,和前面一样,
+797,All Paths From Source to Target,基础dfs,9/14/2024
+200,Number of Islands,,9/14/2024
+695,Max Area of Island,,9/14/2024
+1254,Number of Closed Islands,,9/14/2024
+,孤岛总面积,先遍历一遍，重置边界岛,9/14/2024
+,沉没孤岛,和前面一样,9/14/2024
+,水流问题,转换为逆流而上,
