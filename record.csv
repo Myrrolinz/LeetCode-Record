@@ -184,12 +184,25 @@
 ,58. Length of Last Word,,10/15/2024
 ,14. Longest Common Prefix,,10/15/2024
 ,68. Text Justification,,10/15/2024
-,125. Valid Palindrome,,
-,392. Is Subsequence,,
-,167. Two Sum II - Input Array Is Sorted,,
-,11. Container With Most Water,,
-,15. 3Sum,,
-,209. Minimum Size Subarray Sum,,
-,3. Longest Substring Without Repeating Characters,,
-,30. Substring with Concatenation of All Words,,
-,76. Minimum Window Substring,,
+,125. Valid Palindrome,,10/16/2024
+,392. Is Subsequence,,10/16/2024
+,167. Two Sum II - Input Array Is Sorted,,10/16/2024
+,11. Container With Most Water,,10/16/2024
+,15. 3Sum,,10/16/2024
+,209. Minimum Size Subarray Sum,,10/17/2027
+,3. Longest Substring Without Repeating Characters,,10/17/2027
+,30. Substring with Concatenation of All Words,,10/17/2027
+,76. Minimum Window Substring,,10/17/2027
+,36. Valid Sudoku,,10/18/2024
+,54. Spiral Matrix,,10/18/2024
+,48. Rotate Image,,10/18/2024
+,73. Set Matrix Zeroes,,10/18/2024
+,289. Game of Life,,10/18/2024
+,205. Isomorphic Strings,,
+,383. Ransom Note,,
+,290. Word Pattern,,
+,49. Group Anagrams,,
+,202. Happy Number,,
+,1. Two Sum,,
+,219. Contains Duplicate II,,
+,128. Longest Consecutive Sequence,,
